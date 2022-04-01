@@ -1,0 +1,55 @@
+@import url('banner.css');
+@import url('btn.css');
+@import url('image.css');
+@import url('card.css');
+@import url('form.css');
+@import url('caroussel.css');
+
+
+body{
+	margin: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+h1{
+	font-family: 'Lora', serif;
+	font-weight: 500;
+	font-style: italic;
+	font-size: 60px;
+	color: white;
+	text-shadow: 1px 1px 1px black;
+}
+
+h2{
+	font-family: 'Lora', serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 34px;
+	color: #56c8bf;
+	text-shadow: 1px 1px 1px black;
+}
+
+h3{
+	font-family: 'Lora', serif;
+	font-weight: 300;
+	font-style: italic;
+	font-size: 34px;
+	color: black;
+	text-shadow: 1px 1px 1px lightgrey;
+	margin-bottom: 0px;
+}
+
+
+h4{
+}
+
+
+

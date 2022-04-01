@@ -1,0 +1,24 @@
+.banner{
+    background-image: url("../images/banner2.jpg");
+    height: 60vh;
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border:0px;
+}
+
+.footer{
+    text-align: center;
+    color:  white;
+    padding: 32px 0;
+    background-color: rgb(40,40,40);
+    margin-top: 42px;
+    font-family: 'Lora', serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 32px;
+}

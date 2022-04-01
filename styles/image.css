@@ -1,0 +1,18 @@
+.img-card{
+	border-radius: 50% 50%;
+  height: 134px;
+  width: 134px;
+  object-fit: cover;
+}
+.img-banner{
+    border-radius: 5px;
+    width: 100vw;
+    object-fit: cover;
+    height: 60vh;
+}
+
+.img-caroussel{
+  max-height: 4000px;
+  max-width: 500px;
+}
+
